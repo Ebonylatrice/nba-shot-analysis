@@ -22,5 +22,5 @@ This project explores NBA shot logs to uncover patterns in shot accuracy based o
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/Ebonylatrice/nba-shot-analysis.git)
+   git clone https://github.com/Ebonylatrice/nba-shot-analysis.git
 
